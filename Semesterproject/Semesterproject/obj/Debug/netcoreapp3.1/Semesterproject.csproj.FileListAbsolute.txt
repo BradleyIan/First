@@ -1,0 +1,11 @@
+F:\Visual studio\Semesterproject\Semesterproject\obj\Debug\netcoreapp3.1\Semesterproject.csprojAssemblyReference.cache
+F:\Visual studio\Semesterproject\Semesterproject\obj\Debug\netcoreapp3.1\Semesterproject.AssemblyInfoInputs.cache
+F:\Visual studio\Semesterproject\Semesterproject\obj\Debug\netcoreapp3.1\Semesterproject.AssemblyInfo.cs
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.exe
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.deps.json
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.runtimeconfig.json
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.runtimeconfig.dev.json
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.dll
+F:\Visual studio\Semesterproject\Semesterproject\bin\Debug\netcoreapp3.1\Semesterproject.pdb
+F:\Visual studio\Semesterproject\Semesterproject\obj\Debug\netcoreapp3.1\Semesterproject.dll
+F:\Visual studio\Semesterproject\Semesterproject\obj\Debug\netcoreapp3.1\Semesterproject.pdb
